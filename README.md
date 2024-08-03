@@ -2,7 +2,7 @@
 
 - Meu nome é Esmeralda
 
-- Estou estudando Alura
+- Estou estudando na Alura
 - Estou desenvolvendo na linguagem javascript✨
 - Ultilizo esse espaço para compartilhamento do meu desenvolvimento
 
